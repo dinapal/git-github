@@ -1,0 +1,10 @@
+.container{
+    width: 600px;
+    min-height: 450px;
+    border: 1px solid darkgoldenrod;
+    margin: auto;
+    padding: 15px;
+}
+h1{
+    text-align: center;
+}
